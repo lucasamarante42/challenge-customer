@@ -1,7 +1,6 @@
 # Python
 # Versão utilizada: Python 3.8.10
-# Data: 07/01/2023
-# Autor: Lucas Amarante - lucas.amarante42@gmail.com
+# Autor: Lucas Amarante
 
 ## Como rodar os testes
 
